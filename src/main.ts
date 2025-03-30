@@ -1,4 +1,3 @@
-import { Events } from "discord.js";
 import { client } from "./client";
 import { loadCommands } from "./loader";
 
